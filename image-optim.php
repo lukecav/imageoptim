@@ -3,7 +3,7 @@
 /*
 Plugin Name: wp-usergen-cli
 Plugin URI:  https://github.com/jonathanbossenger/imageoptim
-Description: A WP-CLI addon command that generates random users. Useful for testing purposes.
+Description: A WP-CLI addon command that will optimize site images using jpegoptim and optipng.
 Version: 1.0.0
 Author:      Jonathan Bossenger and Luke Cavanagh
 Author URI:  https://github.com/jonathanbossenger/imageoptim
